@@ -1,3 +1,0 @@
-<html>
-<p>BR</p>
-</html>
